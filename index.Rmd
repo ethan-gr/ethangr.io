@@ -1,0 +1,31 @@
+---
+title: "Ethan M. Galindo Raya"
+image: "ethan.jpg"
+links:
+  - label: Twitter
+    url: "https://twitter.com/ethangr_"
+  - label: GitHub
+    url: "https://github.com/ethan-gr"
+  - label: Email
+    url: "mailto:ethangr@lcg.unam.mx"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Ethan Marcos Galindo Raya student of the Bachelor's Degree in Genomic Sciences
+at National Autonomous University of Mexico (UNAM). Currently a research intern 
+at FreyreLab, a laboratory mainly focused on bacterial regulation networks with
+a systems biology approach. He'd like to develop synthetic and computational 
+biology in topics like morphogenesis, gene regulation networks and bioremediation.
+
+## Education
+
+**National Autonomous University of Mexico (UNAM)** | Cuernavaca, Mexico
+
+Undergraduate at Bachelor's Degree in Genomic Sciences | August 2022 - Present
+
+## Experience
+
+**FreyreLab** | Research intern | January 2023 - Present
