@@ -14,11 +14,11 @@ output:
  
 ## Bio
 
-Ethan Marcos Galindo Raya student of the Bachelor's Degree in Genomic Sciences
-at National Autonomous University of Mexico (UNAM). Currently a research intern 
-at FreyreLab, a laboratory mainly focused on bacterial regulation networks with
-a systems biology approach. He'd like to develop synthetic and computational 
-biology in topics like morphogenesis, gene regulation networks and bioremediation.
+I'm an undergraduate student of the Bachelor's Degree in Genomic Sciences at UNAM. , also research intern at FreyreLab, a laboratory mainly focused on bacterial 
+gene regulation networks with a systems biology approach.
+
+I'm interested in synthetic and computational biology and I'd like to do research 
+in topics like morphogenesis, gene regulation networks and bio-remediation.
 
 ## Education
 
