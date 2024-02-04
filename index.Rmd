@@ -14,7 +14,8 @@ output:
  
 ## Bio
 
-I'm an undergraduate student of the Bachelor's Degree in Genomic Sciences at UNAM. , also research intern at FreyreLab, a laboratory mainly focused on bacterial 
+I'm an undergraduate student of the Bachelor's Degree in Genomic Sciences at UNAM.
+I'm also research intern at FreyreLab, a laboratory mainly focused on bacterial 
 
 I'm interested in synthetic and computational biology and I'd like to do research 
 in topics like morphogenesis, gene regulation networks and bio-remediation.
